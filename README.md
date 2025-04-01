@@ -1,6 +1,6 @@
 # Hi 👋 
 
-I'm just your average neighbor becoming a crazy cat lady who loves pretty women and money.
+I'm just your average neighbor crazy cat lady ~~who loves pretty women and money~~
 
 You can find me shooting hoops at [UNSW Village Green](https://maps.app.goo.gl/TRL6nr9o7dLLCWqy7).  
 
