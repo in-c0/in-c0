@@ -1,7 +1,5 @@
 # Hi 👋 
 
-I'm just your average neighbor crazy cat lady ~~who loves pretty women and money~~
-
 You can find me shooting hoops at [UNSW Village Green](https://maps.app.goo.gl/TRL6nr9o7dLLCWqy7).  
 
 Looking forward to growing and achieving big things in 2025! :)  
@@ -93,4 +91,3 @@ Looking forward to growing and achieving big things in 2025! :)
   </a>
 </p>
 
-  pretty women are the best. they purify my heart. they rebuild my lost faith in humanity. i love them and they love me. they can fix me. ARE YOU WITH ME OR ARE YOU ROLLING YOUR EYES
