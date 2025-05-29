@@ -1,6 +1,8 @@
 # Hi 👋 
 
+
 ![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)
+(Source: [this](https://github.com/in-c0/daily-badge))
 
 You can find me shooting hoops at [UNSW Village Green](https://maps.app.goo.gl/TRL6nr9o7dLLCWqy7).  
 
@@ -11,10 +13,6 @@ Looking forward to growing and achieving big things in 2025! :)
 
 
 ---
-
-### **Currently on...**  
-
-
 
 ### 🔥 **GitHub Streak**
 <p align="center">
