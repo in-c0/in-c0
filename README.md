@@ -2,7 +2,7 @@
 
 🧠 AI researcher | 🎮 Gamer | 🎹 Musician  
 
-Currently completing my Master's in Artificial Intelligence at UNSW, and building human-centered tech that empowers people to thrive — in the water, in recovery, and in life.
+Currently completing my Master's in Artificial Intelligence at UNSW
 
 You can usually find me shooting hoops at UNSW Village Green 🏀 or jamming with Bertie 🐈.
 
