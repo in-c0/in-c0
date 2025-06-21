@@ -1,6 +1,7 @@
 # Hi, I'm Ava 👋
 
-🧠 AI researcher | 🎮 Gamer | 🎹 Musician
+🧠 AI researcher | 🎮 Gamer | 🎹 Musician  
+
 Currently completing my Master's in Artificial Intelligence at UNSW, and building human-centered tech that empowers people to thrive — in the water, in recovery, and in life.
 
 You can usually find me shooting hoops at UNSW Village Green 🏀 or jamming with Bertie 🐈.
@@ -27,7 +28,7 @@ You can usually find me shooting hoops at UNSW Village Green 🏀 or jamming wit
 ### 🚀 Building a Mission-Driven Startup
 - Creating tech that protects lives and helps recovery  
 - Self-funding my research through applied innovation  
-- Using academic research to deepen and refine the products 
+- Using academic research to deepen and refine the products  
 - Balancing speed, ethics, and human impact
 
 ### 🎵 Having More Music in My Life
@@ -69,7 +70,8 @@ Find me here → [linktr.ee/avajiyo](http://linktr.ee/avajiyo)
 
 ## Today is ...
 
-![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)
+![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  
+
 (Source: [this](https://github.com/in-c0/daily-badge))
 
 
