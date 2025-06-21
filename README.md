@@ -1,93 +1,75 @@
-# Hi 👋 
+# Hi, I'm Ava 👋
 
+🧠 AI researcher | 🎮 Gamer | 🎹 Musician
+Currently completing my Master's in Artificial Intelligence at UNSW, and building human-centered tech that empowers people to thrive — in the water, in recovery, and in life.
+
+You can usually find me shooting hoops at UNSW Village Green 🏀 or jamming with Bertie 🐈.
+
+---
+
+## 🔥 Daily Flow
+
+- 🥑 Eating healthy  
+- 💻 Learning, building
+- 🏃‍♀️ Gym/Calisthenics, basketball, bouldering
+- 🐈 Hanging with Bertie  
+- 🎧 Music, Daily meditation
+
+---
+
+## 🎯 2025 Goals
+
+### 💪 Becoming Stronger
+- 10 pull-ups  
+- 1 handstand pushup
+- ~~10-second L-sit~~ ✅
+
+### 🚀 Building a Mission-Driven Startup
+- Creating tech that protects lives and helps recovery  
+- Self-funding my research through applied innovation  
+- Using academic research to deepen and refine the products 
+- Balancing speed, ethics, and human impact
+
+### 🎵 Having More Music in My Life
+- Play in a weekly band/orchestra
+- ~~Release 3 original albums~~ ✅  
+- ~~Attend live gigs, connect with artists~~ ✅
+
+---
+
+## 🌱 Lifetime Missions
+
+- 💪 Be strong enough to protect others — and lift my girl up and spin her around  
+- 🧠 Be mentally unbreakable and endlessly curious  
+- 🌟 Grow personal brands in fitness, music, tech, and art → 10K+ followers each  
+- 😂 Developing enough character (with many stories to tell) to make people laugh at my funeral  
+- 🧬 Build tools that reduce suffering and uplift humanity
+
+Find me here → [linktr.ee/avajiyo](http://linktr.ee/avajiyo)
+
+---
+
+## 🛠️ Tech & Creative Stack
+
+- AI/ML · Python · PyTorch · TensorFlow  
+- Embedded Systems · Arduino · BLE Mesh  
+- Music Production · Logic Pro · FL Studio  
+- Unity Game Dev · C# · Git · Linux
+
+---
+
+## 🔥 GitHub Streaks & Metrics
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=in-c0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Today is ...
 
 ![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)
 (Source: [this](https://github.com/in-c0/daily-badge))
 
-You can find me shooting hoops at [UNSW Village Green](https://maps.app.goo.gl/TRL6nr9o7dLLCWqy7).  
-
-Looking forward to growing and achieving big things in 2025! :)  
-
-
-![ahhhhba (3)](https://github.com/user-attachments/assets/a0d7cfe8-6bdc-42fc-94a5-ef08c8c2d680)
-
-
----
-
-### 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=in-c0&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=in-c0&row=2&column=3" width="50%" />
-</p>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31spetwijkn63mdjzj4r6ziqp5pu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31spetwijkn63mdjzj4r6ziqp5pu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="50%"/>
-  </a>
-</p>
-
----
-
-### **My Daily Routines**  
-🥑 Smoothie  
-💻 Learning  
-🏃 Running  
-🐈 Spending time with Bertie  
-🎹🌹🎸🎙️ Listening to music  
-
----
-
-### **My Hobbies**  
-🎹 Playing piano, guitar  
-🧗‍♀️ Climbing  
-🎮 Gaming  
-
----
-
-### **My Goals for 2025**  
-- **Becoming Stronger**:  
-  💪 10 pullups, 1 handstand pushup, 10-sec l-sit.  
-  🥋 Attending basketball, boxing, taekwondo once a week  
-
-- **Building a Business**:  
-  💸 [keeprsafe.gg](https://keeprsafe.gg)  
-  Securing 100K+ funding, reaching 10,000+ active users  
-
-- **Having More Music in My Life**:  
-  🎵 Attending live music events  
-  🎼 Playing in weekly band/orchestra  
-  🎤 Releasing 3 albums  
-
----
-
-### **My Goals for Life**  
-- 💪 Becoming physically strong enough to fight off bad guys and lift my girl up and spin her around  
-- 🌟 Building recognition for personal brands (fitness/music/art/business) (Goal is to accrue 10K followers each and it's only just the beginning 😺  - http://linktr.ee/avajiyo )
-- 😂 Developing enough character to make people laugh at my funeral 
-- 🧠 Becoming mentally strong enough to **never give up** on these goals or life
-
-
----
-
-### 💖 **Say Hi to my wifeys too!**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bea21f5b-f62a-430a-9bf1-f023cee7153a" width="25%"/>
-  <img src="https://github.com/user-attachments/assets/dcd0dea2-3a95-45c5-9777-6bb5611ca93e" width="25%"/>
-  <img src="https://github.com/user-attachments/assets/1899860b-3799-4cbe-8696-4b03dec3e099" width="25%"/>
-</p>
- 🎬 Kazuha from Le Sserafim / Yuqi from (G-)Idle / Minji from New Jeans 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ZCHlYwDfqUk">
-    <img src="https://img.youtube.com/vi/ZCHlYwDfqUk/0.jpg" width="30%"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=USd2v5wcseA">
-    <img src="https://img.youtube.com/vi/USd2v5wcseA/0.jpg" width="30%"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=DgEuHOhDf04">
-    <img src="https://img.youtube.com/vi/DgEuHOhDf04/0.jpg" width="30%"/>
-  </a>
-</p>
 
