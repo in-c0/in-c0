@@ -1,10 +1,29 @@
-# Hi, I'm Ava 👋
+# Hi, I'm Ava 👋 ![](https://komarev.com/ghpvc/?username=in-c0&label=👀&color=FFFF00)
 
-🧠 AI researcher | 🎮 Gamer | 🎹 Musician  
+🧠 AI researcher | 🎮 Game Dev | 🎹 Musician  
+
+<a href="https://linktr.ee/avajiyo" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Links-Linktree-green?style=flat-square&logo=linktree" />
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/in-c0)
+
 
 Currently completing my Master's in Artificial Intelligence at UNSW
 
-You can usually find me shooting hoops at UNSW Village Green 🏀 or jamming with Bertie 🐈.
+You can usually find me shooting hoops at UNSW Village Green 🏀 or jamming with Bertie 🐈
+
+
+
+[![Watch the video](https://img.youtube.com/vi/yebNIHKAC4A/hqdefault.jpg)](https://youtu.be/yebNIHKAC4A) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/in-c0/repos?time_range=three_months&include_private=True&group=private&loc_metric=changed&theme=dark)](https://api.githubtrends.io/user/svg/in-c0/repos?time_range=three_months&include_private=True&group=private&loc_metric=changed&theme=dark) [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=in-c0&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=in-c0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+
+## Today is ...
+
+![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  [(Source)](https://github.com/in-c0/daily-badge)
 
 ---
 
@@ -58,20 +77,5 @@ Find me here → [linktr.ee/avajiyo](http://linktr.ee/avajiyo)
 - Unity Game Dev · C# · Git · Linux
 
 ---
-
-## 🔥 GitHub Streaks & Metrics
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=in-c0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## Today is ...
-
-![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  
-
-(Source: [this](https://github.com/in-c0/daily-badge))
 
 
