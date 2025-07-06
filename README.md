@@ -5,7 +5,7 @@
 <a href="https://linktr.ee/avajiyo" target="_blank">
   <img src="https://img.shields.io/badge/My%20Links-Linktree-green?style=flat-square&logo=linktree" />
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/in-c0)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buymeacoffee&logoColor=black)](https://coff.ee/avajiyow)
 
 
 Currently completing my Master's in Artificial Intelligence at UNSW
