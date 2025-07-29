@@ -11,7 +11,7 @@
 
 ## Today is ...
 
-![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  [(Source)](https://github.com/in-c0/daily-badg
+![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  [(Source)](https://github.com/in-c0/daily-badge)
 
 ---
 
