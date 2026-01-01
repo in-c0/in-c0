@@ -83,10 +83,11 @@ Run specialized services for digesting/dissecting the latest contents of popular
 1. Post a 10 min intro video covering my vision on Youtube. Be authentic.
 2. Launch a web Vision Board & Gather 100 members on Discord server
 3. Set up the three daily Research Breakthrough digest accounts, post 30 x 3 posts in a consistent format. maybe make use of https://reelytext.netlify.app/.
-4. Hit the 30-day streak exercise; post 10s evidence. Don't overcomplicate it, it's attendance marking, just show up and be authentic.
+4. Hit the 30-day streak training for fitness; post 10s evidence. Don't overcomplicate it, it's attendance marking, just show up and be authentic.
 5. Address the problem "Sort out the content production pipeline. It's quite chaotic atm."(What does that mean?) Just pick one and start. You can change things as you go. Iterate.
 
-Stretch goal 6. Launch the digest/summary service for the Diary of the CEO contents; ship early & incomplete.
+Stretch goal 6. Hit the 30-day streak training for sketching and guitar too; post 10s evidence. Don't overcomplicate it, it's attendance marking, just show up and be authentic.
+Stretch goal 7. Launch the digest/summary service for the Diary of the CEO contents; ship early & incomplete.
 
 ## Today is ...
 
