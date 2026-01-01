@@ -7,7 +7,9 @@
 **fitness / gaming / tech / music**
 
 ## My Mantra
- Om Mani Padme Hum (ॐ मणि पद्मे हूँ) "(Praise to the) I in the Jewel-lotus" ...
+ Om Mani Padme Hum (ॐ मणि पद्मे हूँ) "(Praise to the) I in the Jewel-lotus"
+
+## My Bio
 Live your fullest life. Everyone should be an artist, athlete, business owner, influencer, all at once. Take the risk, build your dreams. 
 
  I am beginning in public. I build something in health, tech, music, games. 
