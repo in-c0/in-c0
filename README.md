@@ -13,13 +13,13 @@ Live your fullest life. Everyone should be an artist, athlete, business owner, i
  I am beginning in public. I build something in health, tech, music, games. 
  I journal my becoming as a jack of all trades, a master of none. I post daily to document the journey, primarily for my own joy and pride, also with charity and empowerment in mind."
  
- IG (Ava Ji Young Kim @fitness.in.v; Training + Reposting Health+tech news)
- Tiktok (Ava Ji Young Kim @anytinh; random daily shitposts: fitness, music, gaming)
- Twitch (Ava Ji Young Kim @anytinh; Valorant livestreams or music busking, or chill hangout & chat)
- Github (Ava Ji Young Kim @in_c0; open source projects)
- Discord (Ava Ji Young Kim @ahh_ba; DMs, communiticating with fans & friends)
- Youtube (Ava Ji Young Kim @Hypothesister; Prototyping, Engineering, Math & Science)
- Twitter/X/LinkedIn (TBD)
+- IG (Ava Ji Young Kim @fitness.in.v; Training + Reposting Health+tech news)  
+- Tiktok (Ava Ji Young Kim @anytinh; random daily shitposts: fitness, music, gaming)  
+- Twitch (Ava Ji Young Kim @anytinh; Valorant livestreams or music busking, or chill hangout & chat)  
+- Github (Ava Ji Young Kim @in_c0; open source projects)  
+- Discord (Ava Ji Young Kim @ahh_ba; DMs, communiticating with fans & friends)  
+- Youtube (Ava Ji Young Kim @Hypothesister; Prototyping, Engineering, Math & Science)  
+- Twitter/X/LinkedIn (TBD)  
 
 ## Here are some things I find cool:
 
