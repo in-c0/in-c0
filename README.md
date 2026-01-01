@@ -95,8 +95,7 @@ Stretch goal 6. Launch the digest/summary service for the Diary of the CEO conte
 Let's fucking do this again.
 
 Engraving the start here. Today is where I begin to harvest the results.
-
-<img width="1073" height="543" alt="image" src="https://github.com/user-attachments/assets/392727ce-518e-449b-84a6-8c6acbeaa51d" />
+<img width="667" height="192" alt="image" src="https://github.com/user-attachments/assets/c4b8f6f8-a0a5-4b90-918d-fc2e3e941f26" />
 
 
 ## Contact
