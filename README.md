@@ -13,16 +13,10 @@
 Live your fullest life. Everyone should be an artist, athlete, business owner, influencer, all at once. Take the risk, build your dreams. 
 
  I am beginning in public. I build something in health, tech, music, games. 
- I journal my becoming as a jack of all trades, a master of none. I post daily to document the journey, primarily for my own joy and pride, also with charity and empowerment in mind."
- 
-- IG (Ava Ji Young Kim @fitness.in.v; Training + Reposting Health+tech news)  
-- Tiktok (Ava Ji Young Kim @anytinh; random daily shitposts: fitness, music, gaming)  
-- Twitch (Ava Ji Young Kim @anytinh; Valorant livestreams or music busking, or chill hangout & chat)  
-- Github (Ava Ji Young Kim @in_c0; open source projects)  
-- Discord (Ava Ji Young Kim @ahh_ba; DMs, communiticating with fans & friends)  
-- Youtube (Ava Ji Young Kim @Hypothesister; Prototyping, Engineering, Math & Science)  
-- Twitter/X/LinkedIn (TBD)  
+ I journal my becoming as a jack of all trades, a master of none. I post daily to document the journey, primarily for my own joy and pride, also with charity and empowerment in mind.
 
+ # HELP I GOT STUCK IN INFINITE DISTRACTION LOOP
+ 
 ## Here are some things I find cool:
 
 https://github.com/user-attachments/assets/5c9ff022-ac20-4ae5-8ff8-44286f4c90cd
@@ -71,36 +65,12 @@ Run specialized services for digesting/dissecting the latest contents of popular
 - Mel Robbins Podcast
 
 4. Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.
-   Train competitively in weightlifting, speed climbing, boxing (in safest way possible), archery, calisthenics.
-   Support for charity as much as possible.
+   Train competitively for National Premiere League (Soccer)
+   Support for charity as much as possible
 
-5. Unify into a single brand (what's currently scattered: https://www.instagram.com/fitness.in.v/ + / https://www.tiktok.com/@anytinh (music?) + Twitch (Gaming, live) + Youtube (Engineering, Math & Science) )
-   I need to sort out the content production pipeline. It's quite chaotic atm.
-   Even if I end up tailoring the content for each platform and specialize for the audience, I should share the same brand name and identity. It's Me, Ava Ji Young Kim.
-
-
-## 2026 January Goals
-1. Post a 10 min intro video covering my vision on Youtube. Be authentic.  
-2. Launch a web Vision Board & Gather 100 members on Discord server  
-3. Set up the three daily Research Breakthrough digest accounts, post 30 x 3 posts in a consistent format. maybe make use of https://reelytext.netlify.app/.  
-4. Hit the 30-day streak training for fitness; post 10s evidence. Don't overcomplicate it, it's attendance marking, just show up and be authentic.  
-5. Address the problem "Sort out the content production pipeline. It's quite chaotic atm."(What does that mean?) Just pick one and start. You can change things as you go. Iterate.  
-
-Stretch goal 6. Hit the 30-day streak training for sketching and guitar too; post 10s evidence. Don't overcomplicate it, it's attendance marking, just show up and be authentic.  
-Stretch goal 7. Launch the digest/summary service for the Diary of the CEO contents; ship early & incomplete.  
 
 ## Today is ...
 
 ![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  [(Source)](https://github.com/in-c0/daily-badge)
+/>
 
-
-
-Let's fucking do this again.
-
-Engraving the start here. Today is where I begin to harvest the results.
-<img width="667" height="192" alt="image" src="https://github.com/user-attachments/assets/c4b8f6f8-a0a5-4b90-918d-fc2e3e941f26" />
-
-
-## Contact
-
-DM Me on Discord @ahh_ba
