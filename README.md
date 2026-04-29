@@ -43,14 +43,14 @@ I will be a proud late-starting sportswoman.
 
 I will be a proud member of my community, my family, and my friendships.
 
-No matter how long it takes, and no matter how hard it is to get there, I will live every step of the journey with gratitude, for as long as I am given the chance.
+I will live every step of the journey with gratitude, for as long as I am given the chance.
 
  
-
-## My Bio
-Live your fullest life. Everyone should be an artist, athlete, business owner, influencer, all at once. Take the risk, build your dreams. 
+ 
+ Live your fullest life. Everyone should be an artist, athlete, business owner, influencer, all at once. Take the risk, build your dreams. 
 
  I am beginning in public. I build something in health, tech, music, games. 
+ 
  I journal my becoming as a jack of all trades, a master of none. I post daily to document the journey, primarily for my own joy and pride, also with charity and empowerment in mind.
 
  
@@ -83,13 +83,9 @@ https://github.com/user-attachments/assets/4e0cc049-3665-4dac-a47a-d40470b4e0cd
 </p>
 
 
-## Vision / Direction
+## Vision / Direction for 2026
 
-1. Start building a personal brand as a fitness influencer + polymath engineer, inspire with the message: "Everyone should live their fullest life. Everyone should be an artist / athlete / business owner / influencer. Take the risk, build your dreams"
-
-2. Build an open source community around health/fitness/tech
-
-3. Run services that is useful for ME, i.e.
+Run services that is useful for ME
 
 Run services for the latest Research Breakthroughs in:
 - Health+Tech  
@@ -101,13 +97,13 @@ Run specialized services for digesting/dissecting the latest contents of popular
 - Huberman Lab
 - Mel Robbins Podcast
 
-4. Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.
-   Train competitively for National Premiere League (Soccer)
-   Support for charity as much as possible
+
+Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.
+Train competitively for National Premiere League (Soccer)
+Support for charity as much as possible
 
 
 ## Today is ...
 
 ![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  [(Source)](https://github.com/in-c0/daily-badge)
-/>
 
