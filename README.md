@@ -4,10 +4,48 @@
  ![ZilliqaZilGIF](https://github.com/user-attachments/assets/f280d969-f9a4-494f-a71a-82ea85f3df04)
 
 
-**fitness / gaming / tech / music**
+I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, web technologies, programming education, and creative technology. I’ve been obsessed with soccer lately.
 
 ## My Mantra
  Om Mani Padme Hum (ॐ मणि पद्मे हूँ) "(Praise to the) I in the Jewel-lotus"
+
+ My idea of enjoying life to the fullest is finding friends and opportunities to learn, grow, and collaborate on exciting projects — whether that means composing music, making games, playing sports, dancing, joining competitions, or building something new.
+
+I live for the camaraderie and passion that come alive when we strive as a team for something we truly care about.
+
+"Enjoy the journey. Trust the process."
+
+I believe that the world can be a better place with AI.
+
+I hope for a future where we, as a human race, solve many of our current and ongoing global problems with wisdom, empathy, resilience, and optimism.
+
+I hope for a future where old age does not stop us from enjoying life with autonomy. Where every person has basic security, education, food, and health, so they can make better decisions for themselves and their communities.
+
+I hope for a future where every person can engage passionately in sports — playing casually with family and friends, or experiencing the thrilling growth of competition at any level, no matter the result or skill level.
+
+I hope for a future where there is no incurable disease or debilitating disability beyond our ability to understand, treat, or support — where unnecessary suffering is reduced, and people are given more freedom, dignity, and choice.
+
+I hope for a future where humans live longer, healthier, and happier lives with dignity, autonomy, and care until the end.
+
+I hope for a future where humanity thrives with plenty of resources. Where conflict caused by greed, fear, or differences in belief is met with communication, understanding, and support.
+
+I hope for a world where children, women, and vulnerable people are safe and supported, and where no crime, system, or accident takes away the free and fulfilling life they deserve.
+
+I hope for a world full of peace, recovery, support, sportsmanship, love, and human connection.
+
+And I will always be taking small steps toward all of that at the frontier of technology, no matter how small those steps may be.
+
+One day, I will run an R&D lab that supports many ambitious projects, each aiming to bring meaningful and positive impact to the world.
+
+I will be a proud, ethical businesswoman who builds things that are good for people and society.
+
+I will be a proud late-starting sportswoman.
+
+I will be a proud member of my community, my family, and my friendships.
+
+No matter how long it takes, and no matter how hard it is to get there, I will live every step of the journey with gratitude, for as long as I am given the chance.
+
+ 
 
 ## My Bio
 Live your fullest life. Everyone should be an artist, athlete, business owner, influencer, all at once. Take the risk, build your dreams. 
@@ -15,7 +53,6 @@ Live your fullest life. Everyone should be an artist, athlete, business owner, i
  I am beginning in public. I build something in health, tech, music, games. 
  I journal my becoming as a jack of all trades, a master of none. I post daily to document the journey, primarily for my own joy and pride, also with charity and empowerment in mind.
 
- # HELP I GOT STUCK IN INFINITE DISTRACTION LOOP
  
 ## Here are some things I find cool:
 
