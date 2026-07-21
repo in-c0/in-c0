@@ -1,3 +1,11 @@
+## [ava.kim](https://ava.kim) — a portfolio you fly through
+
+[![ava.kim — explore the live 3D landscape of my work and thinking](ava-kim.gif)](https://ava.kim)
+
+Four years of building, mapped into one interactive 3D landscape — every project a node, every conversation a dot near what it means. **[▶ explore it live at ava.kim](https://ava.kim)** · drag to fly, press `/` to ask it anything, or hit ▶ for the guided tour.
+
+---
+
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buymeacoffee&logoColor=black)](https://coff.ee/avajiyow)
 
