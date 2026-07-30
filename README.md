@@ -1,6 +1,9 @@
 ## [ava.kim](https://ava.kim)
 [![ava.kim — explore the live 3D landscape of my work and thinking](ava-kim.gif)](https://ava.kim)
 
+https://sumz-up.com/
+https://justtuned.com/
+
  ![ZilliqaZilGIF](https://github.com/user-attachments/assets/f280d969-f9a4-494f-a71a-82ea85f3df04)
 
 
@@ -85,20 +88,20 @@ https://github.com/user-attachments/assets/4e0cc049-3665-4dac-a47a-d40470b4e0cd
 
 ## Vision / Direction for 2026
 
-Run services that is useful for ME
+Run services [that is](https://ava.kim/) [useful](https://consilium.ava.kim/) for ME
 
 Run services for the latest Research Breakthroughs in:
-- Health+Tech  
-- Computer Vision  
-- Math/AI in Video Games  
+- [Health+Tech](https://justtuned.com/pulse)
+- [Computer Vision](https://justtuned.com/iris)  
+- [Math/AI in Video Games](https://justtuned.com/pixel)  
 
 Run specialized services for digesting/dissecting the latest contents of popular channels:
-- Diary Of The CEO
-- Huberman Lab
-- Mel Robbins Podcast
+- [Diary Of The CEO](https://sumz-up.com/channel/diary-of-a-ceo)
+- [Huberman Lab](https://sumz-up.com/channel/huberman-lab)
+- [Mel Robbins Podcast](https://sumz-up.com/channel/mel-robbins)
 
 
-Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.
+[Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.](https://www.instagram.com/fitness.in.v/)
 Train competitively for National Premiere League (Soccer)
 Support for charity as much as possible
 
