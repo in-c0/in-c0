@@ -1,8 +1,10 @@
 ## [ava.kim](https://ava.kim)
 [![ava.kim — explore the live 3D landscape of my work and thinking](ava-kim.gif)](https://ava.kim)
 
-https://sumz-up.com/
-https://justtuned.com/
+### My active projects:
+  - https://sumz-up.com/
+  - https://vibo.lifeos.studio/
+  - https://justtuned.com/
 
  ![ZilliqaZilGIF](https://github.com/user-attachments/assets/f280d969-f9a4-494f-a71a-82ea85f3df04)
 
