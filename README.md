@@ -5,6 +5,7 @@
   - https://sumz-up.com/
   - https://vibo.lifeos.studio/
   - https://justtuned.com/
+  - https://ssmt.uk/
 
  ![ZilliqaZilGIF](https://github.com/user-attachments/assets/f280d969-f9a4-494f-a71a-82ea85f3df04)
 
