@@ -36,6 +36,9 @@ Support for charity as much as possible
 
 Start a Blog/Podcast series
 
+Launching on Product Hunt and ranking #1 product of the Day (Product Hunt 101...) https://www.producthunt.com/p/rankfender/what-marketing-tools-are-people-actually-using
+
+
 ## My Mantra
  Om Mani Padme Hum (ॐ मणि पद्मे हूँ) "(Praise to the) I in the Jewel-lotus"
 
