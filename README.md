@@ -1,18 +1,40 @@
-## [ava.kim](https://ava.kim)
-[![ava.kim — explore the live 3D landscape of my work and thinking](ava-kim.gif)](https://ava.kim)
+![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)
 
 ### My active projects:
-  - https://sumz-up.com/
-  - https://vibo.lifeos.studio/
-  - https://justtuned.com/
-  - https://ssmt.uk/
-  - https://consilium.ava.kim/
+  -  Sumz-Up : AI Digests for long-form contents - https://sumz-up.com/
+  -  ViBo : Online Vision Board - https://vibo.lifeos.studio/
+  -  Consilium : Roundtables to sharpen ideas and prototypes (Agentic spec review - Visual QA - CICD loop) - https://consilium.ava.kim/
+  -  Portfolio : [ava.kim](https://ava.kim)
 
-    
- ![ZilliqaZilGIF](https://github.com/user-attachments/assets/f280d969-f9a4-494f-a71a-82ea85f3df04)
+### Message me on
+  - Linkedin: www.linkedin.com/in/ava-ji-young-kim/
+
+I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, programming education, and web technologies. I’ve been obsessed with soccer lately.
+
+## Vision / Direction for 2026
+
+Run services [that is](https://ava.kim/) [useful](https://consilium.ava.kim/) for ME
+
+Run services for the latest Research Breakthroughs in:
+- [Health+Tech](https://justtuned.com/pulse)
+- [Computer Vision](https://justtuned.com/iris)  
+- [Math/AI in Video Games](https://justtuned.com/pixel)  
+
+Run specialized services for digesting/dissecting the latest contents of popular channels:
+- [Diary Of The CEO](https://sumz-up.com/channel/diary-of-a-ceo)
+- [Huberman Lab](https://sumz-up.com/channel/huberman-lab)
+- [Mel Robbins Podcast](https://sumz-up.com/channel/mel-robbins)
 
 
-I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, web technologies, programming education, and creative technology. I’ve been obsessed with soccer lately.
+[Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.](https://www.instagram.com/fitness.in.v/):
+  - 20 pullups
+  - 30 pushups
+  - 30km/h max speed over 18 x 30m sprints (~5s each sprint, ~30s rest, 6 sprints per session, ~3 min rest between sessions)
+
+Train competitively for National Premiere League (Soccer)
+Support for charity as much as possible
+
+Start a Blog/Podcast series
 
 ## My Mantra
  Om Mani Padme Hum (ॐ मणि पद्मे हूँ) "(Praise to the) I in the Jewel-lotus"
@@ -89,29 +111,4 @@ https://github.com/user-attachments/assets/4e0cc049-3665-4dac-a47a-d40470b4e0cd
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=in-c0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-
-## Vision / Direction for 2026
-
-Run services [that is](https://ava.kim/) [useful](https://consilium.ava.kim/) for ME
-
-Run services for the latest Research Breakthroughs in:
-- [Health+Tech](https://justtuned.com/pulse)
-- [Computer Vision](https://justtuned.com/iris)  
-- [Math/AI in Video Games](https://justtuned.com/pixel)  
-
-Run specialized services for digesting/dissecting the latest contents of popular channels:
-- [Diary Of The CEO](https://sumz-up.com/channel/diary-of-a-ceo)
-- [Huberman Lab](https://sumz-up.com/channel/huberman-lab)
-- [Mel Robbins Podcast](https://sumz-up.com/channel/mel-robbins)
-
-
-[Reduce fat, build muscles, improve mobility, beat my past records, become a national level athelete.](https://www.instagram.com/fitness.in.v/)
-Train competitively for National Premiere League (Soccer)
-Support for charity as much as possible
-
-
-## Today is ...
-
-![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)  [(Source)](https://github.com/in-c0/daily-badge)
 
