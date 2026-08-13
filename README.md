@@ -2,7 +2,7 @@
 
 AI engineer · builder · independent researcher · athlete
 
-I build AI-native products, research prototypes, and experimental software — and document what I learn along the way.
+I want to build an R&D organization capable of supporting many ambitious projects at once — products, scientific research, and public-interest systems — and give good ideas enough resources to find out whether they can genuinely improve the world. For now, I'm learning how to build that organization, one experiment at a time.
 
 🌐 [ava.kim](https://ava.kim)
 
