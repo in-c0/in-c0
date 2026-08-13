@@ -7,8 +7,8 @@
   -  Portfolio : [ava.kim](https://ava.kim)
 
 ### Message me on
-  - Linkedin: www.linkedin.com/in/ava-ji-young-kim/
-
+  - [Linkedin](www.linkedin.com/in/ava-ji-young-kim/)
+  - [Instagram](https://www.instagram.com/fitness.in.v/)
 I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, programming education, and web technologies. I’ve been obsessed with soccer lately.
 
 ## Vision / Direction for 2026
