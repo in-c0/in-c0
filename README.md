@@ -1,6 +1,9 @@
 ![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)
 
-I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, programming education, and web technologies. I’ve been obsessed with soccer lately.
+AI engineer · builder · independent researcher · athlete
+
+I want to build an R&D organization capable of supporting many ambitious projects at once — products, scientific research, and public-interest systems — and give good ideas enough resources to find out whether they can genuinely improve the world. For now, I'm learning how to build that organization, one experiment at a time.
+
 
 ### My active projects:
   -  Sumz-Up : AI Digests for long-form contents - https://sumz-up.com/
