@@ -1,5 +1,7 @@
 ![Daily Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/in-c0/daily-badge/main/badge.json&style=for-the-badge)
 
+I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, programming education, and web technologies. I’ve been obsessed with soccer lately.
+
 ### My active projects:
   -  Sumz-Up : AI Digests for long-form contents - https://sumz-up.com/
   -  ViBo : Online Vision Board - https://vibo.lifeos.studio/
@@ -9,7 +11,7 @@
 ### Message me on
   - [Linkedin](www.linkedin.com/in/ava-ji-young-kim/)
   - [Instagram](https://www.instagram.com/fitness.in.v/)
-I’m a software developer, programmer, educator, and AI postgraduate student at UNSW, with a background in games development, programming education, and web technologies. I’ve been obsessed with soccer lately.
+
 
 ## Vision / Direction for 2026
 
