@@ -8,7 +8,7 @@ I want to build an R&D organization capable of supporting many ambitious project
 
 ## Currently building
 
-- **[Vibo](https://vibo.lifeos.studio/)** — Online vision boards
+- **[Vibo](https://vibo.lifeos.studio/online-vision-board)** — Online vision boards
 - **[Sumz-Up](https://sumz-up.com/)** — AI digests for long-form content
 - **[Consilium](https://consilium.ava.kim/)** — Agentic roundtables for reviewing specs, software, and visual quality
 
