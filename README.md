@@ -8,8 +8,8 @@ I want to build an R&D organization capable of supporting many ambitious project
 
 ## Currently building
 
-- **[Vibo](https://vibo.lifeos.studio/online-vision-board)** — Online vision boards
-- **[Sumz-Up](https://sumz-up.com/)** — AI digests for long-form content
+- **[ViBo](https://vibo.lifeos.studio/online-vision-board)** — Online vision boards
+- **[Sumzup](https://sumz-up.com/)** — AI digests for long-form content
 - **[Consilium](https://consilium.ava.kim/)** — Agentic roundtables for reviewing specs, software, and visual quality
 
 ## Current directions
@@ -92,8 +92,6 @@ https://github.com/user-attachments/assets/4e0cc049-3665-4dac-a47a-d40470b4e0cd
 <img width="403" height="451" alt="Screenshot 2025-12-22 204033" src="https://github.com/user-attachments/assets/d3b6a0cd-71c2-4278-8c97-88d1a1641335" />
 <img width="464" height="451" alt="Screenshot 2025-12-22 204022" src="https://github.com/user-attachments/assets/6c3700c7-b2fb-4bf6-9b1e-f2d6d44cf9ff" />
 <img width="444" height="342" alt="Screenshot 2025-12-22 205242" src="https://github.com/user-attachments/assets/f6d969e4-3f76-46c3-b0f4-0600afcb51ae" />
-
- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/in-c0/repos?time_range=three_months&include_private=True&group=private&loc_metric=changed&theme=dark)](https://api.githubtrends.io/user/svg/in-c0/repos?time_range=three_months&include_private=True&group=private&loc_metric=changed&theme=dark) [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=in-c0&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=in-c0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
