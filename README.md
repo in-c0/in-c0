@@ -5,7 +5,7 @@ AI engineer · builder · independent researcher · athlete
 I want to build an R&D organization capable of supporting many ambitious projects at once — products, scientific research, and public-interest systems — and give good ideas enough resources to find out whether they can genuinely improve the world. For now, I'm learning how to build that organization, one experiment at a time.
 
 Personal web portfolio: [ava.kim](https://ava.kim)
-[lifeos.studio](lifeos.studio)
+[lifeos.studio](https://lifeos.studio)
 
 ## Currently building
 
