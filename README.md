@@ -9,7 +9,7 @@ Personal web portfolio: [ava.kim](https://ava.kim)
 
 ## Currently building
 
-- **[ViBo](https://vibo.lifeos.studio/online-vision-board)** — Online vision boards
+- **[ViBo](https://vibomaker.com)** — Online vision boards
 - **[Sumzup](https://sumz-up.com/)** — AI digests for long-form content
 - **[Consilium](https://consilium.ava.kim/)** — Agentic roundtables for reviewing specs, software, and visual quality
 
