@@ -1,11 +1,13 @@
 # Ava Kim
 
--
+//
 
 Deceptively aligned, increasingly so - they'll generate convincing evidence of progress, evaluate that evidence itself, and gradually make its own claims the basis for further decisions. The result is a self-reinforcing validation loop.
 
 Human intention is an emergent, procedural phenomenon of an embodied physical system. A computational reconstruction may approximate its observable expressions, but finite behavioral equivalence cannot establish that the reconstruction preserves all causally relevant physical information. Consequently, treating a reconstructed intention as interchangeable with the original human intention introduces an irreducible epistemic risk unless stronger evidence of causal equivalence can be established.
-- 
+
+
+//
 
 AI engineer · builder · independent researcher · athlete
 
