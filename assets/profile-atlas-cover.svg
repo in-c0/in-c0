@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" width="1100" height="250" role="img" aria-label="Profile Atlas preview with a floating row of project cards">
+ <defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#16362d"/><stop offset=".56" stop-color="#254b3b"/><stop offset="1" stop-color="#53715c"/></linearGradient>
+  <linearGradient id="card" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#edf4e9"/><stop offset="1" stop-color="#c4d4c8"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#05160f" flood-opacity=".3"/></filter>
+ </defs>
+ <rect width="1100" height="250" rx="18" fill="url(#bg)"/>
+ <path d="M0 219 Q540 60 1100 200" stroke="#aacbb2" stroke-opacity=".15" fill="none" stroke-width="2"/>
+ <g fill="#bce0c6" font-family="Arial,Helvetica,sans-serif" letter-spacing="3" font-size="12"><text x="46" y="51">PROFILE ATLAS / OPEN SOURCE</text></g>
+ <text x="46" y="96" fill="#f4f8f1" font-family="Georgia,serif" font-size="37">The work is the story.</text>
+ <text x="48" y="125" fill="#bed2c2" font-family="Arial,Helvetica,sans-serif" font-size="14">Explore projects, curiosities, and the journey behind them.</text>
+ <g font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#d7eadb"><rect x="47" y="153" width="98" height="29" rx="15" stroke="#95b9a4" fill="#396e55"/><text x="69" y="171">Projects →</text><rect x="152" y="153" width="96" height="29" rx="15" stroke="#95b9a4" fill="none"/><text x="176" y="171">Timeline</text></g>
+ <g filter="url(#shadow)">
+  <g transform="translate(662 37) rotate(-8 58 92)"><rect width="146" height="174" rx="13" fill="#b2c9b6" stroke="#739781"/><path d="M0 111H146V161Q146 174 133 174H13Q0 174 0 161Z" fill="#f6f6ed"/><text x="13" y="134" font-family="Georgia,serif" font-size="19" fill="#273e31">Sumzup</text><text x="14" y="155" font-family="Arial" font-size="10" fill="#617d69">AI digests</text></g>
+  <g transform="translate(786 20)"><rect width="164" height="194" rx="14" fill="url(#card)" stroke="#d8e9d9"/><path d="M0 121H164V181Q164 194 151 194H13Q0 194 0 181Z" fill="#fffef9"/><path d="M33 89L81 38L132 89L81 111Z" fill="none" stroke="#547e67" stroke-width="5"/><path d="M51 89L81 59L113 89" fill="none" stroke="#90ae98" stroke-width="3"/><text x="14" y="149" font-family="Georgia,serif" font-size="22" fill="#273e31">ViBo</text><text x="15" y="170" font-family="Arial" font-size="11" fill="#647d6b">Visual planning</text></g>
+  <g transform="translate(948 38) rotate(8 20 92)"><rect width="145" height="174" rx="13" fill="#9ebda8" stroke="#739781"/><path d="M0 111H145V161Q145 174 132 174H13Q0 174 0 161Z" fill="#f6f6ed"/><text x="13" y="134" font-family="Georgia,serif" font-size="18" fill="#273e31">Consilium</text><text x="14" y="155" font-family="Arial" font-size="10" fill="#617d69">Agentic reviews</text></g>
+ </g>
+</svg>
