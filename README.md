@@ -22,6 +22,10 @@ Personal web portfolio: [ava.kim](https://ava.kim)
 - **[Sumzup](https://sumz-up.com/)** — AI digests for long-form content
 - **[Consilium](https://consilium.ava.kim/)** — Agentic roundtables for reviewing specs, software, and visual quality
 
+[![Explore my projects and GitHub activity in Profile Atlas](https://raw.githubusercontent.com/in-c0/profile-atlas/main/assets/profile-atlas-preview.gif)](https://profile-atlas-showcase.wldud5192.chatgpt.site/)
+
+[Explore the interactive Profile Atlas](https://profile-atlas-showcase.wldud5192.chatgpt.site/)
+
 ## Current directions
 
 - AI engineering and autonomous systems
