@@ -23,8 +23,8 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 <a href="https://map.lifeos.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-environmental-atlas-dark.svg"><img alt="Sydney Environmental Atlas" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-environmental-atlas-light.svg" width="32%"></picture></a>
 <a href="https://sumz-up.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sumzup-dark.svg"><img alt="Sumzup (formerly YouTube to Text)" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sumzup-light.svg" width="32%"></picture></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=in-c0.daily-badge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-daily-badge-dark.svg"><img alt="Daily Badge" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-daily-badge-light.svg" width="32%"></picture></a>
-<a href="https://github.com/in-c0/morse-code-game"><img src="assets/showcase-morse.svg" width="32%" alt="Morse Code Typer — illustrated cover"></a>
-<a href="https://github.com/in-c0/spotify-lyrics-translator"><img src="assets/showcase-spotify-lyrics.svg" width="32%" alt="Spotify Lyrics Translator — illustrated cover"></a>
+<a href="https://github.com/in-c0/morse-code-game"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-morse-code-typer-dark.svg"><img alt="Morse Code Typer" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-morse-code-typer-light.svg" width="32%"></picture></a>
+<a href="https://github.com/in-c0/spotify-lyrics-translator"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-spotify-lyrics-translator-dark.svg"><img alt="Spotify Lyrics Translator" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-spotify-lyrics-translator-light.svg" width="32%"></picture></a>
 <a href="https://chromewebstore.google.com/detail/youtube-shorts-playables/dilmoegnonbiadmhbmaehnhogjlkikdp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-shorts-remover-dark.svg"><img alt="YouTube Shorts Remover" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-shorts-remover-light.svg" width="32%"></picture></a>
 <a href="https://ava.kim"><img src="assets/showcase-ava-kim.svg" width="32%" alt="ava.kim — illustrated cover"></a>
 <a href="https://lifeos.studio"><img src="assets/showcase-lifeos-studio.svg" width="32%" alt="LifeOS Studio — illustrated cover"></a>
@@ -32,17 +32,7 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 
 [![Daily Badge — today's message](https://badge.ava.kim/badge.svg?tz=Australia%2FSydney&pack=wholesome)](https://github.com/in-c0/daily-badge)
 
-<details>
-<summary>Watch the interactive demos · Morse Code Typer & Spotify Lyrics Translator</summary>
-
-<p>
-<a href="https://github.com/in-c0/morse-code-game"><img src="https://github.com/in-c0/morse-code-game/assets/154449115/b5238b98-de5b-40ff-96e3-5a5a9cf26985" width="46%" alt="Morse Code Typer demo"></a>
-<a href="https://github.com/in-c0/spotify-lyrics-translator"><img src="https://raw.githubusercontent.com/in-c0/spotify-lyrics-translator/main/docs/demo.gif" width="46%" alt="Spotify Lyrics Translator animated demo"></a>
-</p>
-</details>
-
-<details>
-<summary>More tools, experiments & research</summary>
+## More tools, experiments & research
 
 <p>
 <a href="https://ui.ava.kim/paper-ui/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-paper-ui-dark.svg"><img alt="Paper UI" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-paper-ui-light.svg" width="32%"></picture></a>
@@ -56,7 +46,7 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 <a href="https://grakken-github-repo-analyser.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-gitsum-dark.svg"><img alt="Gitsum" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-gitsum-light.svg" width="32%"></picture></a>
 <a href="https://in-c0.github.io/Intro-to-AI/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-intro-to-ai-dark.svg"><img alt="Introduction to AI" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-intro-to-ai-light.svg" width="32%"></picture></a>
 </p>
-</details>
+
 
 Explore the broader work and public activity at [profile.ava.kim](https://profile.ava.kim).
 
