@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="220" viewBox="0 0 272 220" role="img" aria-label="Spotify Lyrics Translator illustrated project card">
+<title>Spotify Lyrics Translator</title><desc>Illustrated project cover, not a screenshot. Lyrics across languages.</desc>
+<style>
+.bg{fill:#fff;stroke:#e5e5e5}.panel{fill:#f4f7f3}.heading{fill:#15241a}.muted{fill:#637268}.hair{stroke:#d8e1d9}
+@media(prefers-color-scheme:dark){.bg{fill:#171c19;stroke:#424e44}.panel{fill:#222b25}.heading{fill:#e9f1eb}.muted{fill:#aabbb0}.hair{stroke:#48574b}}
+</style>
+<rect class="bg" x=".5" y=".5" width="271" height="219" rx="10"/>
+<path class="panel" d="M1 11a10 10 0 0 1 10-10h250a10 10 0 0 1 10 10v109H1z"/>
+<g><rect x="29" y="20" width="214" height="97" rx="10" fill="#e6ede7"/><path d="M54 43h52M54 58h72M54 73h47" stroke="#526a58" stroke-width="6" stroke-linecap="round"/><path d="M138 43h76M138 58h58M138 73h66" stroke="#9fb9a3" stroke-width="4" stroke-linecap="round"/><path d="M126 83l10 9 10-9" fill="none" stroke="#526a58" stroke-width="2.5"/><path d="M54 98h155" stroke="#c3d2c7" stroke-width="4"/></g>
+<line class="hair" x1="16" x2="256" y1="128" y2="128"/>
+<text class="heading" x="16" y="155" font-family="Arial,sans-serif" font-size="15" font-weight="700">Spotify Lyrics Translator</text>
+<text class="muted" x="16" y="177" font-family="Arial,sans-serif" font-size="12">Synced lyrics · Transliteration</text>
+<text class="muted" x="16" y="203" font-family="Arial,sans-serif" font-size="11">Lyrics across languages</text>
+</svg>
