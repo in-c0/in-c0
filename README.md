@@ -77,4 +77,4 @@ Outside code, I love sports, creative projects, music, and learning alongside pe
 
 ---
 
-This README is the short introduction. The longer, more personal version I wrote previously is [preserved here](archive/profile-readme-2026-10-27.md). My projects and public activity are easier to explore at [profile.ava.kim](https://profile.ava.kim).
+This README is the short introduction. The longer, more personal version I wrote previously is [here](https://lifeos.studio/). My projects and public activity are easier to explore at [profile.ava.kim](https://profile.ava.kim).
