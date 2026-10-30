@@ -14,9 +14,10 @@ I'm trying to build toward an R&D organisation that can give ambitious ideas the
 ## Things I've made
 
 <p>
+<a href="https://ui.ava.kim/knurl/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-dark.svg"><img alt="Knurl" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-light.svg" width="32%"></picture></a>
 <a href="https://vibomaker.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-vibo-dark.svg"><img alt="ViBo" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-vibo-light.svg" width="32%"></picture></a>
 <a href="https://sumz-up.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sumzup-dark.svg"><img alt="Sumzup" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sumzup-light.svg" width="32%"></picture></a>
-<a href="https://paper-ui-react-lab.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-paper-ui-dark.svg"><img alt="Paper UI" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-paper-ui-light.svg" width="32%"></picture></a>
+<a href="https://ui.ava.kim/paper-ui/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-paper-ui-dark.svg"><img alt="Paper UI" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-paper-ui-light.svg" width="32%"></picture></a>
 <a href="https://chromewebstore.google.com/detail/youtube-shorts-playables/dilmoegnonbiadmhbmaehnhogjlkikdp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-shorts-remover-dark.svg"><img alt="YouTube Shorts Remover" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-shorts-remover-light.svg" width="32%"></picture></a>
 <a href="https://consilium.ava.kim"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-consilium-dark.svg"><img alt="Consilium" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-consilium-light.svg" width="32%"></picture></a>
 <a href="https://ssmt.uk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-ssmt-dark.svg"><img alt="SSMT" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-ssmt-light.svg" width="32%"></picture></a>
@@ -24,7 +25,7 @@ I'm trying to build toward an R&D organisation that can give ambitious ideas the
 <a href="https://map.lifeos.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-environmental-atlas-dark.svg"><img alt="Sydney Environmental Atlas" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-environmental-atlas-light.svg" width="32%"></picture></a>
 </p>
 
-There's more in the [interactive project gallery](https://profile-atlas-showcase.wldud5192.chatgpt.site/#work), including things I've starred and forked along the way.
+There's more on [profile.ava.kim](https://profile.ava.kim), including an activity timeline you can scroll back through.
 
 ## Collected along the way
 
@@ -42,4 +43,4 @@ Outside code, I love sports, creative projects, music, and learning alongside pe
 
 ---
 
-This README is the short introduction. The longer, more personal version I wrote previously is [preserved here](archive/profile-readme-2026-10-27.md). My projects and public activity are easier to explore in the [interactive showcase](https://profile-atlas-showcase.wldud5192.chatgpt.site/).
+This README is the short introduction. The longer, more personal version I wrote previously is [preserved here](archive/profile-readme-2026-10-27.md). My projects and public activity are easier to explore at [profile.ava.kim](https://profile.ava.kim).
