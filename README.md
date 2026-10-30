@@ -26,6 +26,10 @@ I'm trying to build toward an R&D organisation that can give ambitious ideas the
 
 There's more in the [interactive project gallery](https://profile-atlas-showcase.wldud5192.chatgpt.site/#work), including things I've starred and forked along the way.
 
+## Collected along the way
+
+<a href="https://profile.ava.kim/#collected"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/collected-dark.svg"><img alt="Collected references: hands, wearables, VR training and electric light" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/collected-light.svg" width="100%"></picture></a>
+
 ## The questions that keep me going
 
 - How can AI help us build *useful, reliable* things instead of just convincing prototypes?
