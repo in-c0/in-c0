@@ -20,6 +20,10 @@ I'm trying to build toward an R&D organisation that can give ambitious ideas the
 
 </details>
 
+<a href="https://profile.ava.kim/#coding-type"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/coding-type-dark.svg"><img alt="Coding type: when and how I commit" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/coding-type-light.svg" width="100%"></picture></a>
+
+<a href="https://profile.ava.kim/#curiosity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/curiosity-dark.svg"><img alt="Curiosity: what I star, month by month" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/curiosity-light.svg" width="100%"></picture></a>
+
 **[Explore my work & activity](https://lifeos.studio/)** · [Personal site](https://ava.kim) · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/)
 
 ## Selected apps & experiments
