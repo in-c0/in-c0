@@ -30,8 +30,6 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 <a href="https://lifeos.studio"><img src="assets/showcase-lifeos-studio.svg" width="32%" alt="LifeOS Studio — illustrated cover"></a>
 </p>
 
-[![Daily Badge — today's message](https://badge.ava.kim/badge.svg?tz=Australia%2FSydney&pack=wholesome)](https://github.com/in-c0/daily-badge)
-
 ## More tools, experiments & research
 
 <p>
@@ -67,3 +65,5 @@ Outside code, I love sports, creative projects, music, and learning alongside pe
 ---
 
 This README is the short introduction. The longer, more personal version I wrote previously is [here](https://lifeos.studio/). My projects and public activity are easier to explore at [profile.ava.kim](https://profile.ava.kim).
+
+[![Daily Badge — today's message](https://badge.ava.kim/badge.svg?tz=Australia%2FSydney&pack=wholesome)](https://github.com/in-c0/daily-badge)
