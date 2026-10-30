@@ -9,7 +9,7 @@ I'm trying to build toward an R&D organisation that can give ambitious ideas the
 
 <a href="https://github.com/in-c0?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-dark.svg"><img alt="My public GitHub activity: new repos, forks, stars and commits over the past 12 months" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-light.svg" width="100%"></picture></a>
 
-**[Explore my work & activity](https://profile-atlas-showcase.wldud5192.chatgpt.site/)** · [Personal site](https://ava.kim) · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/)
+**[Explore my work & activity](https://github.com/in-c0/my-prettier-github-profile-readme)** · [Personal site](https://ava.kim) · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/)
 
 ## Things I've made
 
