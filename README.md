@@ -32,6 +32,8 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 
 <a href="https://spotify-lyrics-translator.netlify.app"><img src="assets/lyrics-translator-embed.svg" width="100%" alt="Lyrics Translator — search any song and sing along: each line in the original, how to say it, and what it means. Click to try it live."></a>
 
+<a href="https://typotyper.com/osteotype/"><img src="assets/osteotype-demo.gif" width="100%" alt="Osteotype — type each bone's name as the 3D skeleton zooms to it (sacrum, temporal bone, femur, cervical vertebrae). Click to play."></a>
+
 <p>
 <a href="https://ui.ava.kim/knurl/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-dark.svg"><img alt="Knurl" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-light.svg" width="32%"></picture></a>
 <a href="https://typotyper.com/osteotype/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-typotyper-dark.svg"><img alt="Osteotype — skeletal typing game" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-typotyper-light.svg" width="32%"></picture></a>
