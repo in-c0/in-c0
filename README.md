@@ -30,6 +30,10 @@ I'm trying to build toward an R&D organisation that can give ambitious ideas the
 
 Click a card to open the app or explore its source. Osteotype is the skeleton-typing game inside Typotyper.
 
+<a href="https://ui.ava.kim/knurl/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/knurl-dark.gif"><img alt="Knurl: form controls drawn as working machines — a toggle, a knob, a dial gauge, a split-flap select, a combination lock and an hourglass, each moving on its own" src="assets/knurl-light.gif" width="100%"></picture></a>
+
+**[Knurl](https://ui.ava.kim/knurl/)** — 28 accessible form controls drawn as working machines, for React or plain DOM. `npm i @in-c0/knurl`
+
 <a href="https://spotify-lyrics-translator.netlify.app"><img src="assets/lyrics-translator-embed.svg" width="100%" alt="Lyrics Translator — search any song and sing along: each line in the original, how to say it, and what it means. Click to try it live."></a>
 
 <p>
