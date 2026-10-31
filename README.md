@@ -51,6 +51,10 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 <a href="https://lifeos.studio"><img src="assets/showcase-lifeos-studio.svg" width="32%" alt="LifeOS Studio — illustrated cover"></a>
 </p>
 
+## A board I keep on ViBo
+
+<a href="https://vibomaker.com/share/cmt3zuo9u0003jqoyjb56v0zj"><img alt="Meal Plans & Recipes, a live ViBo board" src="https://vibomaker.com/share/cmt3zuo9u0003jqoyjb56v0zj/social/og" width="100%"></a>
+
 ## More tools, experiments & research
 
 <p>
