@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Lyrics Translator: a lyric line shown in the original Korean, how to say it, and what it means, highlighted as it is sung">
+<title>Lyrics Translator — sing along in any language</title>
+<desc>Animated preview. Example lines from "Arirang", a public-domain Korean folk song.</desc>
+<defs>
+  <radialGradient id="g1" cx="18%" cy="8%" r="65%"><stop offset="0" stop-color="#7c2d5a" stop-opacity=".95"/><stop offset="1" stop-color="#7c2d5a" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="88%" cy="18%" r="55%"><stop offset="0" stop-color="#1e3a8a" stop-opacity=".9"/><stop offset="1" stop-color="#1e3a8a" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g3" cx="55%" cy="115%" r="60%"><stop offset="0" stop-color="#134e4a" stop-opacity=".9"/><stop offset="1" stop-color="#134e4a" stop-opacity="0"/></radialGradient>
+  <clipPath id="frame"><rect x="1" y="1" width="1198" height="378" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans',Helvetica,Arial,sans-serif">
+  <rect width="1200" height="380" fill="#09090b"/>
+  <rect width="1200" height="380" fill="url(#g1)"/><rect width="1200" height="380" fill="url(#g2)"/><rect width="1200" height="380" fill="url(#g3)"/>
+
+  <text x="60" y="66" font-size="24" font-weight="800" fill="#ffffff">Lyrics Translator</text>
+  <text x="60" y="94" font-size="16" fill="#ffffff" fill-opacity=".62">Search any song — it plays with the lyrics, how to say them, and what they mean.</text>
+  <g transform="translate(968 40)">
+    <rect width="172" height="44" rx="22" fill="#ffffff"/>
+    <text x="86" y="28.5" font-size="16" font-weight="700" fill="#09090b" text-anchor="middle">▶  Try it live</text>
+  </g>
+
+  <g font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#a7f3d0" fill-opacity=".85">
+    <text x="60" y="166">ORIGINAL</text>
+    <text x="60" y="224">HOW TO SAY IT</text>
+    <text x="60" y="266">WHAT IT MEANS</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0.0000;0.0292;0.3042;0.3333;1.0000" values="0;1;1;0;0"/>
+    <clipPath id="sweep0"><rect x="300" y="120" height="70" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0.0000;0.0250;0.2917;1.0000" values="0;0;820;820"/></rect></clipPath>
+    <text x="300" y="172" font-size="46" font-weight="800" fill="#ffffff" fill-opacity="0.42">아리랑 아리랑 아라리요</text>
+    <text x="300" y="172" font-size="46" font-weight="800" fill="#ffffff" clip-path="url(#sweep0)">아리랑 아리랑 아라리요</text>
+    <text x="300" y="228" font-size="25" font-weight="650" fill="#ffffff" fill-opacity="0.88">arirang arirang arariyo</text>
+    <text x="300" y="270" font-size="21" fill="#ffffff" fill-opacity="0.62">Arirang, arirang, arariyo</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0.0000;0.3333;0.3625;0.6375;0.6667;1.0000" values="0;0;1;1;0;0"/>
+    <clipPath id="sweep1"><rect x="300" y="120" height="70" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0.0000;0.3333;0.3583;0.6250;1.0000" values="0;0;0;820;820"/></rect></clipPath>
+    <text x="300" y="172" font-size="46" font-weight="800" fill="#ffffff" fill-opacity="0.42">아리랑 고개로 넘어간다</text>
+    <text x="300" y="172" font-size="46" font-weight="800" fill="#ffffff" clip-path="url(#sweep1)">아리랑 고개로 넘어간다</text>
+    <text x="300" y="228" font-size="25" font-weight="650" fill="#ffffff" fill-opacity="0.88">arirang gogaero neomeoganda</text>
+    <text x="300" y="270" font-size="21" fill="#ffffff" fill-opacity="0.62">Crossing over the Arirang pass</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0.0000;0.6667;0.6958;0.9708;1.0000;1.0000" values="0;0;1;1;0;0"/>
+    <clipPath id="sweep2"><rect x="300" y="120" height="70" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" calcMode="linear" keyTimes="0.0000;0.6667;0.6917;0.9583;1.0000" values="0;0;0;820;820"/></rect></clipPath>
+    <text x="300" y="172" font-size="46" font-weight="800" fill="#ffffff" fill-opacity="0.42">나를 버리고 가시는 님은</text>
+    <text x="300" y="172" font-size="46" font-weight="800" fill="#ffffff" clip-path="url(#sweep2)">나를 버리고 가시는 님은</text>
+    <text x="300" y="228" font-size="25" font-weight="650" fill="#ffffff" fill-opacity="0.88">nareul beorigo gasineun nimeun</text>
+    <text x="300" y="270" font-size="21" fill="#ffffff" fill-opacity="0.62">My love, who leaves me behind,</text>
+  </g>
+
+  <rect x="60" y="318" width="1080" height="5" rx="2.5" fill="#ffffff" fill-opacity=".18"/>
+  <rect x="60" y="318" height="5" rx="2.5" fill="#ffffff" width="0"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0.0000;1.0000" values="0;1080"/></rect>
+  <text x="60" y="350" font-size="13" fill="#ffffff" fill-opacity=".45">“Arirang” · Korean folk song</text>
+  <text x="1140" y="350" font-size="13" fill="#ffffff" fill-opacity=".55" text-anchor="end">spotify-lyrics-translator.netlify.app</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="379" rx="20.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+</svg>
