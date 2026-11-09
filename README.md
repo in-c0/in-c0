@@ -1,32 +1,46 @@
 # Ava Kim
 
-Software engineer · AI researcher · independent builder  
+Software engineer · Unity/C# · interactive products · applied AI
 Sydney, Australia
 
-I make things to find out what could be possible — useful software, creative tools, and experiments at the edges of AI and engineering.
+I'm Ava (Ji Young) Kim, a software engineer with professional Unity development experience, a background in game development, and postgraduate AI study at UNSW. I build working products across interactive systems, web engineering, developer tools and research experiments.
 
-I'm trying to build toward an R&D organisation that can give ambitious ideas the time, people, and resources to prove whether they can genuinely help.
+For recruiters and engineering teams: the fastest way to assess my work is through the selected public projects below. I'm happy to discuss my specific contributions, technical decisions, trade-offs, and the role you're hiring for.
 
-<a href="https://profile.ava.kim/#activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-dark.svg"><img alt="My public GitHub activity: new repos, forks, stars and commits over the past 12 months" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-light.svg" width="100%"></picture></a>
+**[Engineering portfolio](https://ava.kim)** · **[Recruiter-friendly overview](https://lifeos.studio/for-recruiters/)** · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/) · [Studio world](https://lifeos.studio/)
 
-<details><summary>3 months</summary>
+## Engineering at a glance
 
-<a href="https://profile.ava.kim/#activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-3m-dark.svg"><img alt="Activity, past 3 months" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-3m-light.svg" width="100%"></picture></a>
+- **Professional:** Unity / C# engineering, including work on **Gods Unchained at Immutable (2022–2023)**.
+- **Technical range:** Unity, C#, React, JavaScript/TypeScript, Python, C/C++, SQL, interactive UI, full-stack web, and applied AI.
+- **Education:** UNSW Master of IT (AI); Bachelor of Game Development (Game Design).
+- **Recognition:** IMC Coding Competition 2024 — Advanced winner.
+- **Languages:** English and Korean. Based in Sydney, Australia.
 
-</details>
-<details><summary>All time</summary>
+Professional production work and independent experiments are distinct. A public demo shows what can be tried, not a claim about customers, scale, revenue or production readiness.
 
-<a href="https://profile.ava.kim/#activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-all-dark.svg"><img alt="Activity, all time" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-all-light.svg" width="100%"></picture></a>
+## Featured work
 
-</details>
+These are my current portfolio priorities. Follow a link to inspect the public product or demo. **YSR** is listed without a public link until its technical materials are ready to share.
 
-<a href="https://profile.ava.kim/#coding-type"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/coding-type-dark.svg"><img alt="Coding type: when and how I commit" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/coding-type-light.svg" width="100%"></picture></a>
+| Project | What to inspect | Engineering angle |
+| --- | --- | --- |
+| **[ViBo](https://vibomaker.com/)** | Online vision-board maker with an infinite canvas | Interactive full-stack product |
+| **[Sports Science Meets Technology](https://sportssciencetech.com/)** | Sports tech, products and research in a browsable catalogue | Data discovery and evidence-aware UX |
+| **[Career Universe beta](https://careeruniverse.app/beta)** | Career-platform beta | Candidate/recruiter workflows and web product |
+| **[Showhaus](https://showhaus.app/)** | Public project site | Interactive web experience |
+| **[BLEAVER](https://bleaver.com/)** | Public project site | Web publishing experiment |
+| **[Gitsum](https://in-c0.github.io/gitsum/)** | GitHub repository analysis | Developer tooling |
+| **[Typotyper](https://typotyper.com/)** | Typing experiences, including Osteotype | Interaction and learning mechanics |
+| **YSR** | Technical details available on request | Selected project; public case study pending |
+| **[Spotify Lyrics Translator](https://spotify-lyrics-translator.netlify.app/)** | Translation and romanization with song lyrics | Music-oriented UI and language tooling |
+| **[Knurl](https://ui.ava.kim/knurl/)** | Mechanical-feeling accessible form controls | React/DOM component engineering |
+| **[Paper UI](https://ui.ava.kim/paper-ui/)** | Paper-inspired interactive components | React interface design |
+| **[Sydney Footfall](https://in-c0.github.io/sydney-footfall/)** | Pedestrian-activity exploration | Data visualization and mapping |
 
-<a href="https://profile.ava.kim/#curiosity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/curiosity-dark.svg"><img alt="Curiosity: what I star, month by month" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/curiosity-light.svg" width="100%"></picture></a>
+**Interested in talking about an engineering role?** [Connect with me on LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/). For a broader view of how I think and build, visit [ava.kim](https://ava.kim).
 
-**[Explore my work & activity](https://lifeos.studio/)** · [Personal site](https://ava.kim) · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/)
-
-## Selected apps & experiments
+## Visual demos and more experiments
 
 Click a card to open the app or explore its source. Osteotype is the skeleton-typing game inside Typotyper.
 
@@ -42,7 +56,7 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 <a href="https://ui.ava.kim/knurl/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-dark.svg"><img alt="Knurl" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-light.svg" width="32%"></picture></a>
 <a href="https://typotyper.com/osteotype/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-typotyper-dark.svg"><img alt="Osteotype — skeletal typing game" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-typotyper-light.svg" width="32%"></picture></a>
 <a href="https://vibomaker.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-vibo-dark.svg"><img alt="ViBo" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-vibo-light.svg" width="32%"></picture></a>
-<a href="https://ssmt.uk"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-ssmt-dark.svg"><img alt="SSMT" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-ssmt-light.svg" width="32%"></picture></a>
+<a href="https://sportssciencetech.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-ssmt-dark.svg"><img alt="Sports Science Meets Technology" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-ssmt-light.svg" width="32%"></picture></a>
 <a href="https://map.lifeos.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-environmental-atlas-dark.svg"><img alt="Sydney Environmental Atlas" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-environmental-atlas-light.svg" width="32%"></picture></a>
 <a href="https://sumz-up.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sumzup-dark.svg"><img alt="Sumzup (formerly YouTube to Text)" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sumzup-light.svg" width="32%"></picture></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=in-c0.daily-badge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-daily-badge-dark.svg"><img alt="Daily Badge" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-daily-badge-light.svg" width="32%"></picture></a>
@@ -68,12 +82,28 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 <a href="https://in-c0.github.io/sydney-footfall/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-footfall-dark.svg"><img alt="Sydney Footfall" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-sydney-footfall-light.svg" width="32%"></picture></a>
 <a href="https://in-c0.github.io/glassos-webgl/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-glassos-dark.svg"><img alt="GlassOS" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-glassos-light.svg" width="32%"></picture></a>
 <a href="https://in-c0.github.io/Fluid-Dynamics-Simulation/web/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-fluid-dynamics-dark.svg"><img alt="Fluid Dynamics, One Idea at a Time" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-fluid-dynamics-light.svg" width="32%"></picture></a>
-<a href="https://grakken-github-repo-analyser.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-gitsum-dark.svg"><img alt="Gitsum" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-gitsum-light.svg" width="32%"></picture></a>
+<a href="https://in-c0.github.io/gitsum/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-gitsum-dark.svg"><img alt="Gitsum" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-gitsum-light.svg" width="32%"></picture></a>
 <a href="https://in-c0.github.io/Intro-to-AI/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-intro-to-ai-dark.svg"><img alt="Introduction to AI" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-intro-to-ai-light.svg" width="32%"></picture></a>
 </p>
 
 
 Explore the broader work and public activity at [profile.ava.kim](https://profile.ava.kim).
+
+## Engineering activity & curiosity
+
+Public GitHub activity and the work above are complementary: activity charts show the record, while projects show the software.
+
+<a href="https://profile.ava.kim/#activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-dark.svg"><img alt="Public GitHub activity over the past 12 months" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-light.svg" width="100%"></picture></a>
+
+<details><summary>3 months</summary>
+<a href="https://profile.ava.kim/#activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-3m-dark.svg"><img alt="Public activity, past 3 months" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-3m-light.svg" width="100%"></picture></a>
+</details>
+<details><summary>All time</summary>
+<a href="https://profile.ava.kim/#activity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-all-dark.svg"><img alt="Public activity, all time" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/activity-all-light.svg" width="100%"></picture></a>
+</details>
+
+<a href="https://profile.ava.kim/#coding-type"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/coding-type-dark.svg"><img alt="Coding activity patterns" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/coding-type-light.svg" width="100%"></picture></a>
+<a href="https://profile.ava.kim/#curiosity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/curiosity-dark.svg"><img alt="Starred repositories and interests by month" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/curiosity-light.svg" width="100%"></picture></a>
 
 ## Collected along the way
 
