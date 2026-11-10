@@ -1,44 +1,30 @@
 # Ava Kim
 
-Software engineer · Unity/C# · interactive products · applied AI
+Software engineer · Unity/C# · applied AI
 Sydney, Australia
 
-I'm Ava (Ji Young) Kim, a software engineer with professional Unity development experience, a background in game development, and postgraduate AI study at UNSW. I build working products across interactive systems, web engineering, developer tools and research experiments.
+I'm Ava (Ji Young) Kim, a software engineer with professional Unity development experience, a background in game development, and postgraduate AI study at UNSW.
+I build working products across interactive systems, web engineering, developer tools and research experiments.
 
-For recruiters and engineering teams: the fastest way to assess my work is through the selected public projects below. I'm happy to discuss my specific contributions, technical decisions, trade-offs, and the role you're hiring for.
-
-**[Engineering portfolio](https://ava.kim)** · **[Recruiter-friendly overview](https://lifeos.studio/for-recruiters/)** · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/) · [Studio world](https://lifeos.studio/)
-
-## Engineering at a glance
-
-- **Professional:** Unity / C# engineering, including work on **Gods Unchained at Immutable (2022–2023)**.
-- **Technical range:** Unity, C#, React, JavaScript/TypeScript, Python, C/C++, SQL, interactive UI, full-stack web, and applied AI.
-- **Education:** UNSW Master of IT (AI); Bachelor of Game Development (Game Design).
-- **Recognition:** IMC Coding Competition 2024 — Advanced winner.
-- **Languages:** English and Korean. Based in Sydney, Australia.
-
-Professional production work and independent experiments are distinct. A public demo shows what can be tried, not a claim about customers, scale, revenue or production readiness.
+**[Portfolio](https://ava.kim)** · **[For Recruiters](https://lifeos.studio/for-recruiters/)** · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/)
 
 ## Featured work
-
-These are my current portfolio priorities. Follow a link to inspect the public product or demo. **YSR** is listed without a public link until its technical materials are ready to share.
 
 | Project | What to inspect | Engineering angle |
 | --- | --- | --- |
 | **[ViBo](https://vibomaker.com/)** | Online vision-board maker with an infinite canvas | Interactive full-stack product |
+| **[Sumzup](https://sumz-up.com/)** | Public project site | Web publishing |
 | **[Sports Science Meets Technology](https://sportssciencetech.com/)** | Sports tech, products and research in a browsable catalogue | Data discovery and evidence-aware UX |
 | **[Career Universe beta](https://careeruniverse.app/beta)** | Career-platform beta | Candidate/recruiter workflows and web product |
-| **[Showhaus](https://showhaus.app/)** | Public project site | Interactive web experience |
-| **[BLEAVER](https://bleaver.com/)** | Public project site | Web publishing experiment |
+| **[Showhaus](https://showhaus.app/)** | Real estate platform | Business API bridging |
+| **[BLEAVER](https://bleaver.com/)** | Public project site | Web publishing |
 | **[Gitsum](https://in-c0.github.io/gitsum/)** | GitHub repository analysis | Developer tooling |
-| **[Typotyper](https://typotyper.com/)** | Typing experiences, including Osteotype | Interaction and learning mechanics |
-| **YSR** | Technical details available on request | Selected project; public case study pending |
-| **[Spotify Lyrics Translator](https://spotify-lyrics-translator.netlify.app/)** | Translation and romanization with song lyrics | Music-oriented UI and language tooling |
-| **[Knurl](https://ui.ava.kim/knurl/)** | Mechanical-feeling accessible form controls | React/DOM component engineering |
-| **[Paper UI](https://ui.ava.kim/paper-ui/)** | Paper-inspired interactive components | React interface design |
+| **[Typotyper](https://typotyper.com/osteotype)** | Typing game | Gamification and learning mechanics |
+| **[YSR](https://chromewebstore.google.com/detail/youtube-shorts-playables/dilmoegnonbiadmhbmaehnhogjlkikdp)** | Chrome extension | Selected project; public case study pending |
+| **[Spotify Lyrics Translator](https://spotify-lyrics-translator.netlify.app/)** | Translation and romanization service | UI and language tooling |
+| **[Knurl](https://ui.ava.kim/knurl/)** | Mechanical-feeling accessible form controls | React/DOM component understanding |
 | **[Sydney Footfall](https://in-c0.github.io/sydney-footfall/)** | Pedestrian-activity exploration | Data visualization and mapping |
-
-**Interested in talking about an engineering role?** [Connect with me on LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/). For a broader view of how I think and build, visit [ava.kim](https://ava.kim).
+| **[Paper UI](https://ui.ava.kim/paper-ui/)** | Paper-inspired interactive components | React interface design |
 
 ## Visual demos and more experiments
 
@@ -48,9 +34,9 @@ Click a card to open the app or explore its source. Osteotype is the skeleton-ty
 
 **[Knurl](https://ui.ava.kim/knurl/)** — 28 accessible form controls drawn as working machines, for React or plain DOM. `npm i @in-c0/knurl`
 
-<a href="https://spotify-lyrics-translator.netlify.app"><img src="assets/lyrics-translator-embed.svg" width="100%" alt="Lyrics Translator — search any song and sing along: each line in the original, how to say it, and what it means. Click to try it live."></a>
-
 <a href="https://typotyper.com/osteotype/"><img src="assets/osteotype-demo.gif" width="100%" alt="Osteotype — type each bone's name as the 3D skeleton zooms to it (sacrum, temporal bone, femur, cervical vertebrae). Click to play."></a>
+
+<a href="https://spotify-lyrics-translator.netlify.app"><img src="assets/lyrics-translator-embed.svg" width="100%" alt="Lyrics Translator — search any song and sing along: each line in the original, how to say it, and what it means. Click to try it live."></a>
 
 <p>
 <a href="https://ui.ava.kim/knurl/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-dark.svg"><img alt="Knurl" src="https://raw.githubusercontent.com/in-c0/my-prettier-github-profile-readme/output/project-knurl-light.svg" width="32%"></picture></a>
