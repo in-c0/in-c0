@@ -7,7 +7,7 @@ I'm Ava (Ji Young) Kim, a software engineer with professional Unity development 
 
 For recruiters and engineering teams: the fastest way to assess my work is through the selected public projects below. I'm happy to discuss my specific contributions, technical decisions, trade-offs, and the role you're hiring for.
 
-**[Engineering portfolio](https://ava.kim)** · **[Recruiter-friendly overview](https://lifeos.studio/for-recruiters/)** · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/) · [Studio world](https://lifeos.studio/)
+**[Engineering portfolio & demos](https://lifeos.studio/#work)** · **[Personal site](https://ava.kim)** · [LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/) · [Pretty Profile cards](https://github.com/in-c0/my-prettier-github-profile-readme)
 
 ## Engineering at a glance
 
@@ -21,22 +21,23 @@ Professional production work and independent experiments are distinct. A public 
 
 ## Featured work
 
-These are my current portfolio priorities. Follow a link to inspect the public product or demo. **YSR** is listed without a public link until its technical materials are ready to share.
+These are public products, working demos and research experiments rather than 13 equally mature businesses. The links show what you can actually explore; the technical focus names a concrete engineering problem instead of a generic project category.
 
-| Project | What to inspect | Engineering angle |
+| Project | What you can explore | Engineering focus |
 | --- | --- | --- |
-| **[ViBo](https://vibomaker.com/)** | Online vision-board maker with an infinite canvas | Interactive full-stack product |
-| **[Sports Science Meets Technology](https://sportssciencetech.com/)** | Sports tech, products and research in a browsable catalogue | Data discovery and evidence-aware UX |
-| **[Career Universe beta](https://careeruniverse.app/beta)** | Career-platform beta | Candidate/recruiter workflows and web product |
-| **[Showhaus](https://showhaus.app/)** | Public project site | Interactive web experience |
-| **[BLEAVER](https://bleaver.com/)** | Public project site | Web publishing experiment |
-| **[Gitsum](https://in-c0.github.io/gitsum/)** | GitHub repository analysis | Developer tooling |
-| **[Typotyper](https://typotyper.com/)** | Typing experiences, including Osteotype | Interaction and learning mechanics |
-| **YSR** | Technical details available on request | Selected project; public case study pending |
-| **[Spotify Lyrics Translator](https://spotify-lyrics-translator.netlify.app/)** | Translation and romanization with song lyrics | Music-oriented UI and language tooling |
-| **[Knurl](https://ui.ava.kim/knurl/)** | Mechanical-feeling accessible form controls | React/DOM component engineering |
-| **[Paper UI](https://ui.ava.kim/paper-ui/)** | Paper-inspired interactive components | React interface design |
-| **[Sydney Footfall](https://in-c0.github.io/sydney-footfall/)** | Pedestrian-activity exploration | Data visualization and mapping |
+| **[ViBo](https://vibomaker.com/)** | Build and arrange a vision board on an infinite canvas | Interactive canvas state, persistence and end-to-end web product flows |
+| **[Sumzup](https://sumz-up.com/)** | Explore AI digests, chapter highlights and source-linked claim checks | Transcript-to-digest pipelines, evidence-oriented UX and model-routing options |
+| **[Sports Science Meets Technology](https://sportssciencetech.com/)** | Search sports-tech products, labs and research across a structured catalogue | Faceted discovery, product/research taxonomy and source-aware information design |
+| **[Career Universe beta](https://careeruniverse.app/beta)** | Explore a role-first job-market interface and its candidate journey | Job-data presentation, spatial exploration and beta onboarding flows |
+| **[Showhaus](https://showhaus.app/)** | Explore NSW lease records alongside location and planning context | Public-record/API integration, geospatial overlays and map-driven discovery |
+| **[BLEAVER](https://bleaver.com/)** | Try a personalised news-discovery interface; ranking movement is demo data | Preference-driven feed UX, editorial presentation and simulated ranking states |
+| **[Gitsum](https://in-c0.github.io/gitsum/)** | Inspect a GitHub repository through summaries and code questions | Repository ingestion, code analysis and interactive developer workflows |
+| **[Typotyper / Osteotype](https://typotyper.com/osteotype)** | Type anatomical terms to identify and navigate a 3D skeleton | 3D interaction, typing-game state and feedback for active recall |
+| **[YSR · YouTube Shorts Remover](https://chromewebstore.google.com/detail/youtube-shorts-playables/dilmoegnonbiadmhbmaehnhogjlkikdp)** | Toggle Shorts and Playables visibility directly in YouTube | Chrome extension content scripts, DOM observation and synced preferences |
+| **[Spotify Lyrics Translator](https://spotify-lyrics-translator.netlify.app/)** | Search songs and compare lyrics, pronunciation and translation | Multilingual text presentation and music-search interaction design |
+| **[Knurl](https://ui.ava.kim/knurl/)** | Try 28 tactile controls: dials, switches, locks and more | Accessible stateful components for React and plain DOM |
+| **[Sydney Footfall](https://in-c0.github.io/sydney-footfall/)** | Inspect model-estimated hourly pedestrian volumes by street | Neural-network estimates, OpenStreetMap features and geospatial visualisation |
+| **[Paper UI](https://ui.ava.kim/paper-ui/)** | Explore paper and graphite material studies with interactive controls | Reusable React primitives, motion states and experimental GPU materials |
 
 **Interested in talking about an engineering role?** [Connect with me on LinkedIn](https://www.linkedin.com/in/ava-ji-young-kim/). For a broader view of how I think and build, visit [ava.kim](https://ava.kim).
 
@@ -121,6 +122,6 @@ Outside code, I love sports, creative projects, music, and learning alongside pe
 
 ---
 
-This README is the short introduction. The longer, more personal version I wrote previously is [here](https://lifeos.studio/). My projects and public activity are easier to explore at [profile.ava.kim](https://profile.ava.kim).
+This README is the short introduction. Explore the featured engineering work at [lifeos.studio](https://lifeos.studio/) and the wider activity and profile components at [profile.ava.kim](https://profile.ava.kim).
 
 [![Daily Badge — today's message](https://badge.ava.kim/badge.svg?tz=Australia%2FSydney&pack=wholesome)](https://github.com/in-c0/daily-badge)
